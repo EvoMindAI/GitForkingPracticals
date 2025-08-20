@@ -57,6 +57,5 @@ c++;
 printf("shortest distance from source node to...\n");
 for(i=0;i<5;i++){
     printf("%d is = %d \n",i,cost[i]);
-}
-}
+
 //Git_Forking_Practical
